@@ -195,3 +195,7 @@ header {
   background: #E9F8FB;
   border-radius: 16px;
 }
+
+category-salad:hover salad-hover{
+  stroke: #ffffff;
+}
