@@ -195,6 +195,14 @@ header {
   height: 250px;
   background: #E9F8FB;
   border-radius: 16px;
+  transition: .3s;
+}
+
+.category-item:hover{
+  background-color: #FE8C01;
+}
+.category-item:hover .category-text{
+  color: white;
 }
 
 category-salad:hover salad-hover {
